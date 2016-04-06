@@ -1,5 +1,6 @@
 # Intro to testing with Mocha and Chai
 
+![BUILD STATUS](https://travis-ci.org/msturrus/testing_testing_123.svg?branch=master)
 
 ## How do I test?
 
