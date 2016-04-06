@@ -1,0 +1,22 @@
+{
+  "name": "testing_testing_123",
+  "version": "1.0.0",
+  "description": "intro to testing with Mocha &amp; Chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msturrus/testing_testing_123.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msturrus/testing_testing_123/issues"
+  },
+  "homepage": "https://github.com/msturrus/testing_testing_123#readme",
+  "dependencies": {
+    "mocha": "^2.4.5"
+  }
+}
